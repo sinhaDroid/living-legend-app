@@ -11,13 +11,13 @@ import java.util.List;
 public class Legends {
 
     @Expose
-    private List<Legend> legendList;
+    private List<Legend> elements;
 
-    public List<Legend> getLegendList() {
-        return legendList;
+    public List<Legend> getElements() {
+        return elements;
     }
 
-    public void setLegendList(List<Legend> legendList) {
-        this.legendList = legendList;
+    public void setElements(List<Legend> elements) {
+        this.elements = elements;
     }
 }

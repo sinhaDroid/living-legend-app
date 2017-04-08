@@ -12,6 +12,6 @@ import rx.Observable;
 public interface LegendApi {
 
     // TODO: Replace json url here
-    @GET("test-mobile/ios/json/test.json")
+    @GET("test-mobile/iOS/json/test2.json")
     Observable<Legends> getLegends();
 }

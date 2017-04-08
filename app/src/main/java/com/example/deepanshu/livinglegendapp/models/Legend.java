@@ -8,7 +8,7 @@ import java.io.Serializable;
  * Created by deepanshu on 7/4/17.
  */
 
-class Legend implements Serializable {
+ public class Legend implements Serializable {
 
     @Expose
     private String image;
