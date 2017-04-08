@@ -39,7 +39,7 @@ captures/
 .idea/misc.xml
 .idea/kotlinc.xml
 .idea/vcs.xml
-
+.idea/*
 # Keystore files
 *.jks
 
